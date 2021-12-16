@@ -30,5 +30,70 @@
             "photo": "https://3.bp.blogspot.com/-MvCK4_MA6ck/WOEDlAF7U_I/AAAAAAAABNY/TAwTjvCG3qIWHiKF6fytM-KIB7KKH7BeQCLcB/s1600/diario-de-uma-paixao-filme-nicholas-sparks.jpg",
             "name": "Diário de uma Paixão"
         }
+    ],
+    "Biography": [
+        {
+            "id": 1,
+            "photo": "https://lojasaraiva.vteximg.com.br/arquivos/a_008.jpg?v=637024509096230000",
+            "name": "Minha História - Michelle Obama"
+        },
+        {
+            "id": 2,
+            "photo": "https://lojasaraiva.vteximg.com.br/arquivos/a_050.jpg?v=637090964372770000",
+            "name": "Fernanda Montenegro - Prólogo, ato, epílogo"
+        },
+        {
+            "id": 3,
+            "photo": "https://img.mybest-brazil.com.br/press_component/item_part_images/35db4baedd4ac4d6ba6a14c379832247.jpg?ixlib=rails-4.2.0&q=70&lossless=0&w=640&h=640&fit=clip&s=ab9b76d24622a8415ffab7dca72364f6",
+            "name": "Eu sou Malala"
+        },
+        {
+            "id": 4,
+            "photo": "https://images-na.ssl-images-amazon.com/images/I/81Or2lwumkL.jpg",
+            "name": "Lula"
+        },
+        {
+            "id": 5,
+            "photo": "https://www.guiadasemana.com.br/contentFiles/system/pictures/2015/3/131012/cropped/mandela.jpg",
+            "name": "Nelson Mandela"
+        },
+        {
+            "id": 6,
+            "photo": "https://a-static.mlcdn.com.br/618x463/livro-paul-mccartney-a-biografia/magazineluiza/222872200/d2331b6b655c150692618870dfbe22a2.jpg",
+            "name": "Paul McCartney"
+        }
+    ],
+    "Horror": [
+        {
+            "id": 1,
+            "photo": "https://cdn.culturagenial.com/imagens/caixa-de-passaros-0-cke.jpg",
+            "name": "Caixa de Pássaros"
+        },
+        {
+            "id": 2,
+            "photo": "https://1.bp.blogspot.com/-_5qgEnGAf5w/XvK9lOHG-XI/AAAAAAAATVA/QkIwZXr8U5MJjcHZG87-3ELyb0ws7BnLgCK4BGAsYHg/s789/Amigo.jpg",
+            "name": "Amigo Imaginário"
+        },
+        {
+            "id": 3,
+            "photo": "https://lalupi.com/images/produtos/it--a-coisa--stephen-king-foto-1.jpg",
+            "name": "It - A coisa"
+        },
+        {
+            "id": 4,
+            "photo": "https://images.squarespace-cdn.com/content/v1/5c376e2bf2e6b1f114014430/1574795815609-TN1Y0LIB8MYQ0KDIZX30/41bAc8f84yL.jpg",
+            "name": "O que aconteceu com Annie"
+        },
+        {
+            "id": 5,
+            "photo": "https://i.pinimg.com/originals/d0/02/13/d0021336ae660f615c93e56659b0ab2d.jpg",
+            "name": "Bem atrás de você"
+        },
+        {
+            "id": 6,
+            "photo": "https://cdn.maioresemelhores.com/imagens/maiores-e-melhores-livros-de-suspense-15-cke.jpg",
+            "name": "Coraline"
+        }
+        
     ]
 }
