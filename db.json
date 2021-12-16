@@ -2,8 +2,33 @@
     "romance": [
         {
             "id": 1,
-            "photo": "https://catiororeflexivo.com/wp-content/uploads/2019/11/tiniest-cavalier-puppy-nessa-1-5dd542032dfde__700.jpg",
-            "name": "filme"
+            "photo": "https://images-na.ssl-images-amazon.com/images/I/71ehseAM8wL.jpg",
+            "name": "Querido John"
+        },
+        {
+            "id": 2,
+            "photo": "https://lojasaraiva.vteximg.com.br/arquivos/ids/12107091/1006692589.jpg?v=637142240713700000",
+            "name": "A Escolha"
+        },
+        {
+            "id": 3,
+            "photo": "https://2.bp.blogspot.com/-s_y4AP4T8lk/VXmN7eB82gI/AAAAAAAABvY/_Vn6fNwqtYQ/s1600/Um%2BHomem%2Bde%2BSorte.jpg",
+            "name": "Um Home de Sorte"
+        },
+        {
+            "id": 4,
+            "photo": "https://images-na.ssl-images-amazon.com/images/I/51fpmx%2BhyaL._SX344_BO1,204,203,200_.jpg",
+            "name": "A Última Música"
+        },
+        {
+            "id": 5,
+            "photo": "https://images-na.ssl-images-amazon.com/images/I/91kAw3CSBzL.jpg",
+            "name": "Porto Seguro"
+        },
+        {
+            "id": 6,
+            "photo": "https://3.bp.blogspot.com/-MvCK4_MA6ck/WOEDlAF7U_I/AAAAAAAABNY/TAwTjvCG3qIWHiKF6fytM-KIB7KKH7BeQCLcB/s1600/diario-de-uma-paixao-filme-nicholas-sparks.jpg",
+            "name": "Diário de uma Paixão"
         }
     ]
 }
